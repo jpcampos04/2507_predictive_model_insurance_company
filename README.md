@@ -1,4 +1,4 @@
-# Sprint13_project
+cd# Sprint13_project
 
 # 🧮 Predictive Model for an Insurance Company
 
@@ -13,5 +13,5 @@ Applied data anonymization techniques to preserve customer privacy.
 
 ## 🚀 How to Run
 ```bash
-git clone https://github.com/jpcampos04/Sprint13_project.git
-jupyter notebook insurance_risk_model.ipynb
+git clone https://github.com/jpcampos04/2507_predictive_model_insurance_company.git
+jupyter 2507_predictive_model_insurance_company.ipynb
