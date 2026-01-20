@@ -1,5 +1,3 @@
-cd# Sprint13_project
-
 # 🧮 Predictive Model for an Insurance Company
 
 ## 🧠 Description
